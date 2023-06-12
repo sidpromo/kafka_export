@@ -1,0 +1,66 @@
+2023-06-12 13:10:17,329 - INFO - Bootstrapping cluster metadata from [('seliics00379e02.seli.gic.ericsson.se', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2023-06-12 13:10:17,332 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 13:10:17,335 - INFO - Bootstrap succeeded: found 1 brokers and 5 topics.
+2023-06-12 13:10:17,335 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 13:10:17,335 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 13:10:17,490 - INFO - Broker version identifed as 0.11.0
+2023-06-12 13:10:17,491 - INFO - Set configuration api_version=(0, 11, 0) to skip auto check_version requests on startup
+2023-06-12 13:10:17,492 - WARNING - group_id is None: disabling auto-commit.
+2023-06-12 13:10:17,493 - INFO - Updating subscribed topics to: ('bgf_ebm-processed',)
+2023-06-12 13:10:17,497 - INFO - Updated partition assignment: [TopicPartition(topic='bgf_ebm-processed', partition=0)]
+2023-06-12 13:10:17,519 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:11:00,905 - INFO - Bootstrapping cluster metadata from [('seliics00379e02.seli.gic.ericsson.se', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2023-06-12 17:11:00,908 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:11:00,912 - INFO - Bootstrap succeeded: found 1 brokers and 5 topics.
+2023-06-12 17:11:00,912 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:11:00,912 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:11:01,067 - INFO - Broker version identifed as 0.11.0
+2023-06-12 17:11:01,068 - INFO - Set configuration api_version=(0, 11, 0) to skip auto check_version requests on startup
+2023-06-12 17:11:01,069 - WARNING - group_id is None: disabling auto-commit.
+2023-06-12 17:11:01,070 - INFO - Updating subscribed topics to: ('bgf_ebm-processed',)
+2023-06-12 17:11:01,073 - INFO - Updated partition assignment: [TopicPartition(topic='bgf_ebm-processed', partition=0)]
+2023-06-12 17:11:01,095 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:11:33,070 - INFO - Bootstrapping cluster metadata from [('seliics00379e02.seli.gic.ericsson.se', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2023-06-12 17:11:33,073 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:11:33,076 - INFO - Bootstrap succeeded: found 1 brokers and 5 topics.
+2023-06-12 17:11:33,076 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:11:33,076 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:11:33,232 - INFO - Broker version identifed as 0.11.0
+2023-06-12 17:11:33,232 - INFO - Set configuration api_version=(0, 11, 0) to skip auto check_version requests on startup
+2023-06-12 17:11:33,234 - WARNING - group_id is None: disabling auto-commit.
+2023-06-12 17:11:33,234 - INFO - Updating subscribed topics to: ('bgf_ebm-processed',)
+2023-06-12 17:11:33,238 - INFO - Updated partition assignment: [TopicPartition(topic='bgf_ebm-processed', partition=0)]
+2023-06-12 17:11:33,261 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:11:49,139 - INFO - Bootstrapping cluster metadata from [('seliics00379e02.seli.gic.ericsson.se', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2023-06-12 17:11:49,142 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:11:49,145 - INFO - Bootstrap succeeded: found 1 brokers and 5 topics.
+2023-06-12 17:11:49,145 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:11:49,145 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:11:49,300 - INFO - Broker version identifed as 0.11.0
+2023-06-12 17:11:49,301 - INFO - Set configuration api_version=(0, 11, 0) to skip auto check_version requests on startup
+2023-06-12 17:11:49,302 - WARNING - group_id is None: disabling auto-commit.
+2023-06-12 17:11:49,302 - INFO - Updating subscribed topics to: ('bgf_ebm-processed',)
+2023-06-12 17:11:49,307 - INFO - Updated partition assignment: [TopicPartition(topic='bgf_ebm-processed', partition=0)]
+2023-06-12 17:11:49,330 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:17:53,267 - INFO - Bootstrapping cluster metadata from [('seliics00379e02.seli.gic.ericsson.se', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2023-06-12 17:17:53,270 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:17:53,274 - INFO - Bootstrap succeeded: found 1 brokers and 5 topics.
+2023-06-12 17:17:53,274 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:17:53,274 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:17:53,429 - INFO - Broker version identifed as 0.11.0
+2023-06-12 17:17:53,430 - INFO - Set configuration api_version=(0, 11, 0) to skip auto check_version requests on startup
+2023-06-12 17:17:53,431 - WARNING - group_id is None: disabling auto-commit.
+2023-06-12 17:17:53,431 - INFO - Updating subscribed topics to: ('bgf_ebm-processed',)
+2023-06-12 17:17:53,435 - INFO - Updated partition assignment: [TopicPartition(topic='bgf_ebm-processed', partition=0)]
+2023-06-12 17:17:53,457 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:18:59,696 - INFO - Bootstrapping cluster metadata from [('seliics00379e02.seli.gic.ericsson.se', 9092, <AddressFamily.AF_UNSPEC: 0>)]
+2023-06-12 17:18:59,699 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:18:59,702 - INFO - Bootstrap succeeded: found 1 brokers and 5 topics.
+2023-06-12 17:18:59,702 - INFO - <BrokerConnection node_id=bootstrap host=seliics00379e02.seli.gic.ericsson.se/10.196.120.138 port=9092>: Closing connection. 
+2023-06-12 17:18:59,703 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: connecting to 10.196.120.138:9092
+2023-06-12 17:18:59,858 - INFO - Broker version identifed as 0.11.0
+2023-06-12 17:18:59,858 - INFO - Set configuration api_version=(0, 11, 0) to skip auto check_version requests on startup
+2023-06-12 17:18:59,860 - WARNING - group_id is None: disabling auto-commit.
+2023-06-12 17:18:59,860 - INFO - Updating subscribed topics to: ('bgf_ebm-processed',)
+2023-06-12 17:18:59,864 - INFO - Updated partition assignment: [TopicPartition(topic='bgf_ebm-processed', partition=0)]
+2023-06-12 17:18:59,885 - INFO - <BrokerConnection node_id=1001 host=10.196.120.138/10.196.120.138 port=9092>: Closing connection. 
