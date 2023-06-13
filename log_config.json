@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "handlers": {
+      "file_handler": {
+        "class": "logging.handlers.RotatingFileHandler",
+        "level": "INFO",
+        "formatter": "default_formatter",
+        "filename" : "/home/ebedber/bgf_test/data_export/kafka_processing.log",
+        "mode": "a",
+        "maxBytes": 10485760,
+        "backupCount": 3
+      }
+    },
+    "formatters": {
+      "default_formatter": {
+        "format": "%(asctime)s - %(levelname)s - %(message)s",
+        "datefmt": "%Y-%m-%d %H:%M:%S"
+      }
+    },
+    "root": {
+      "level": "INFO",
+      "handlers": ["file_handler"]
+    }
+  }
